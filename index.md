@@ -9,11 +9,15 @@ by our, I mean *our*! You can [submit your own changes via
 GitHub](https://github.com/dlab-berkeley/python-berkeley/edit/gh-pages/learning_resources.md)
 to keep our learning resources current.
 
-If you have no idea where to go, drop us a line on the [py4science
-list](mailto:py4science@lists.berkeley.edu), or visit, call, or email us at the
+Join the [py4science
+list](mailto:py4science@lists.berkeley.edu) mailing list.
+
+Hang out with us in the [#pyworkparty](https://webchat.freenode.net/?channels=#pyworkparty) chat room.
+
+Visit, call, or email us at the
 [D-Lab](http://dlab.berkeley.edu)!
 
-Also check us out on Twitter! [@PyWorkParty](http://www.twitter.com/PyWorkParty)?!?
+Also check us out on Twitter [@PyWorkParty](http://www.twitter.com/PyWorkParty)
 
 ## Join The Community!
 
