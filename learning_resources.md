@@ -4,15 +4,26 @@ title: Python Learning Resources
 ---
 ## Asking questions
 
-The best place to ask questions is probably [Stack
-Overflow](http://stackoverflow.com), but they like you to ask what they have
-decided are "good questions" there. Please take the time to read the ["tour" for
-Stack Overflow](http://stackoverflow.com/tour), or this more in-depth [essay on
+The best place to ask questions is our [IRC channel](http://en.wikipedia.org/wiki/Internet_Relay_Chat) chat room on [Freenode](https://freenode.net/): **#pyworkparty**
+
+There are many ways to get into an IRC chat room, but the easiest is to use [this web client](https://webchat.freenode.net/?channels=#pyworkparty). Just click [here](https://webchat.freenode.net/?channels=#pyworkparty), enter your Nickname, fill out the Captcha to verify that you are a human being, and you will join the channel. We're friendly folks who are there to help, so please feel free to ask questions!
+
+Quickly you may discover that some ways of asking questions are better than others. [This](http://mattgemmell.com/what-have-you-tried/) is a nice article with some good ideas about this.
+
+
+If there is nobody in the channel to answer your question, you should try just Googling it.
+
+Often there are good answers on [Stack
+Overflow](http://stackoverflow.com). If you don't find the answer to your question there, you can sign up and ask for help there!
+
+There is a long history in open source developer culture of asking questions and learning how to ask questions. People on Stack Overflow are part of this tradition. If you start engaging that community (which is a great idea) and want to learn more, you could read the ["tour" for
+Stack Overflow](http://stackoverflow.com/tour) or this more in-depth [essay on
 asking good questions by Eric
 Raymond](http://catb.org/~esr/faqs/smart-questions.html) - note that Eric DOES
-NOT want questions from anyone (unless he finds them in a forum)! Note also that
-the Berkeley Python community is pretty friendly, and you're always welcome to
-check with us on the mailing list.
+NOT want questions from anyone (unless he finds them in a forum)!
+
+You're always welcome to
+ask questions on the [mailing list](https://calmail.berkeley.edu/manage/list/listinfo/py4science@lists.berkeley.edu).
 
 ## Zero-installation intros
 
